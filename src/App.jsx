@@ -1,5 +1,5 @@
 import './App.css'
-import Starparellex from './Components/starparellex'
+import Starparellex from './Components/Starparellex'
 import Wave from './Components/Wave'
 
 function App() {
